@@ -1,0 +1,2 @@
+Button interface:
+The button connected to GPIO 2 controls ones digit of the minutes. Pressing it will increment minutes by one. The button connected to GPIO 3 increments the tens place of the seconds by one.
